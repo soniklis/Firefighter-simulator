@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C9C789C9-61DD-872C-A6B8-B87AB34F27D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InputController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraManager.cs" Line="15" Column="55" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="100" Column="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Firefighter_simulator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f04edce8-ec42-49d4-ad71-a5109502c800" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
