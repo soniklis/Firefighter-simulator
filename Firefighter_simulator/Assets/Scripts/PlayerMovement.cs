@@ -54,7 +54,11 @@ public class PlayerMovement : MonoBehaviour
             {
                 float maxDist = radius / Mathf.Cos(Mathf.Deg2Rad * normalAngle) - radius + .02f;
                 if (hit.distance < maxDist)
+                {
                     IsGrounded = true;
+                    allowJump = true;
+                }
+                    
             }
         }
     }

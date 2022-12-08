@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class InputController : MonoBehaviour
 {
+
     private PlayerMovement charController;
 
     void Awake()
     {
         charController = GetComponent<PlayerMovement>();
+
     }
 
     private void FixedUpdate()
@@ -21,5 +23,7 @@ public class InputController : MonoBehaviour
         charController.TurnInput = horizontal;
         charController.JumpInput = jump;
     }
+
+
 
 }
