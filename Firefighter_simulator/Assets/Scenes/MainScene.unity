@@ -301,7 +301,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327750212}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 32.88, y: 1.47, z: 0}
+  m_LocalPosition: {x: 32.88, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1245,6 +1245,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5371091691048215603, guid: addcfaae359354d6c9abed287cf0b40b, type: 3}
+      propertyPath: CanvasAnimator
+      value: 
+      objectReference: {fileID: 668312360}
     - target: {fileID: 5371091691048215610, guid: addcfaae359354d6c9abed287cf0b40b, type: 3}
       propertyPath: m_Name
       value: trash (1)
